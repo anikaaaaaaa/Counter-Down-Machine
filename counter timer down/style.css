@@ -4,7 +4,7 @@
     box-sizing:border-box;
 }
 body{
-    background-image: url('/snow.jpg');
+    background-image: url('snow.jpg');
     background-size: cover;
     min-height: 100vh;
     background-position: center center;
