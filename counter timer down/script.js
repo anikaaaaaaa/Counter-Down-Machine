@@ -20,5 +20,5 @@ const countdown=()=>{
     secondsEL.innerHTML=seconds;
 
 };
-setInterval(countdown,1000);
 countdown();
+setInterval(countdown,1000);
